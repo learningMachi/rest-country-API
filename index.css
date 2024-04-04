@@ -1,0 +1,29 @@
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+body {
+    background: #1B333C;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+    height: 150px;
+}
+.card{
+    background: linear-gradient(90deg, #CEBF9C, #415453);    
+}
+.card-header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
